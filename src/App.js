@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div>
+    <div style={{ background: "#141414" }}>
       <Menu />
 
       <BannerMain
@@ -43,7 +43,7 @@ function App() {
       />
 
       <Footer />
-    </div>
+    </div >
   );
 }
 
