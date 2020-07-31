@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front End",
+      "descricao": "Uma categoria bacanuda",
+      "cor": "#656565"
+    },
+    {
+      "id": 2,
+      "nome": "Back End",
+      "descricao": "Back bão bacanuda",
+      "cor": "#123131"
+    }
+  ]
+}
